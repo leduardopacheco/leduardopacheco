@@ -8,14 +8,8 @@ Meu nome é Luiz Eduardo, e estou empenhado em criar experiências web inovadora
 
 ## Projetos Destacados
 
-### [Perfil-estilo-linktree] (https://github.com/leduardopacheco/Perfil-estilo-linktree)
-Link visualização: https://leduardopacheco.github.io/Perfil-estilo-linktree/
-
-### [Projeto-Crud-singin-singup] (https://github.com/leduardopacheco/Projeto-Crud-singin-singup)
-Link para acesso do CADASTRO/ENTRAR: https://leduardopacheco.github.io/Projeto-Crud-singin-singup/cadastro.html
-
-Link para acesso do CRUD: https://leduardopacheco.github.io/Projeto-Crud-singin-singup/home.html
-
+### Perfil-estilo-linktree (https://github.com/leduardopacheco/Perfil-estilo-linktree)
+### Projeto-Crud-singin-singup (https://github.com/leduardopacheco/Projeto-Crud-singin-singup)
 
 ## Tecnologias que Domino
 
