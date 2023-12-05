@@ -20,7 +20,7 @@ Meu nome é Luiz Eduardo, e estou empenhado em criar experiências web inovadora
 
 ## Contato
 
-- LinkedIn: https://www.linkedin.com/in/luiz-eduardo-alencar-pacheco-726b52267/
+- LinkedIn: www.linkedin.com/in/leduardopacheco
 - E-mail: luizeduardoalencarpacheco@gmail.com
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discussões, sugestões ou oportunidades de colaboração. Obrigado por visitar meu perfil no GitHub! 😊
