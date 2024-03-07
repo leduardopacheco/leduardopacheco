@@ -13,7 +13,7 @@ Meu nome é Luiz Eduardo, e estou empenhado em criar experiências web inovadora
 
 ## Tecnologias que Domino
 
-- **Linguagens de Programação:** JavaScript (ES6+), HTML, CSS
+- **Linguagens de Programação:** JavaScript (ES6+), HTML, CSS, PHP
 - **Bibliotecas e Frameworks:** React.js
 - **Controle de Versão:** Git, GitHub
 
