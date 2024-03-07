@@ -4,7 +4,7 @@ Bem-vindo ao meu repositório no GitHub! Sou um desenvolvedor web apaixonado por
 
 ## Sobre Mim
 
-Meu nome é Luiz Eduardo, e estou empenhado em criar experiências web inovadoras e funcionais. Atualmente, estou contribuindo para o sucesso da Tijuca Alimentos como desenvolvedor web, onde tenho a oportunidade de aplicar e aprimorar minhas habilidades no dia a dia.
+Meu nome é Luiz Eduardo, estou empenhado em criar experiências web inovadoras e funcionais. Atualmente, estou contribuindo para o sucesso da Tijuca Alimentos como desenvolvedor web, onde tenho a oportunidade de aplicar e aprimorar minhas habilidades no dia a dia.
 
 ## Projetos Destacados
 
