@@ -1,26 +1,46 @@
-# Desenvolvedor Web JavaScript
+Desenvolvedor Full Stack | Luiz Eduardo Pacheco
 
-Bem-vindo ao meu repositório no GitHub! Sou um desenvolvedor web apaixonado por JavaScript, atualmente estagiando na Tijuca Alimentos. Aqui você encontrará projetos, códigos e experimentos que refletem minha jornada no mundo do desenvolvimento web.
+Bem-vindo ao meu repositório no GitHub! Sou Luiz Eduardo, desenvolvedor full stack apaixonado por tecnologia e inovação. Meu foco está em criar soluções eficientes e experiências impactantes para aplicações web e mobile.
 
-## Sobre Mim
+Atualmente, estou em constante evolução como desenvolvedor, participando de projetos que abrangem desde sistemas de gestão até aplicações modernas e intuitivas. Minha formação e experiência incluem a aplicação de metodologias ágeis, como Scrum, e práticas de versionamento com Git.
 
-Meu nome é Luiz Eduardo, estou empenhado em criar experiências web inovadoras e funcionais. Atualmente, estou contribuindo para o sucesso da Tijuca Alimentos como desenvolvedor web, onde tenho a oportunidade de aplicar e aprimorar minhas habilidades no dia a dia.
+Sobre Mim
 
-## Projetos Destacados
+Sou um profissional dedicado e detalhista, sempre em busca de novas formas de aprimorar meu conhecimento e entregar resultados. Recentemente, participei de projetos desafiadores como:
 
-### Perfil-estilo-linktree (https://github.com/leduardopacheco/Perfil-estilo-linktree)
-### Projeto-Crud-singin-singup (https://github.com/leduardopacheco/Projeto-Crud-singin-singup)
+Desenvolvimento de sistemas para agendamento e gestão com APIs e integração de banco de dados.
 
-## Tecnologias que Domino
+Criação de painéis administrativos e dashboards dinâmicos com ReactJS e Styled Components.
 
-- **Linguagens de Programação:** JavaScript (ES6+), HTML, CSS, PHP
-- **Bibliotecas e Frameworks:** React.js
-- **Controle de Versão:** Git, GitHub
+Modelagem e implementação de bancos de dados relacionais, otimizando consultas e estruturando dados de forma eficiente.
+
+Tecnologias que Domino
+
+Linguagens de Programação: JavaScript (ES6+), PHP, SQL, Python, HTML, CSS
+
+Frameworks e Bibliotecas: React.js, Node.js
+
+Banco de Dados: MySQL, MongoDB, SQLite, Firebase
+
+Ferramentas: Git, GitHub, Styled Components, LaTeX
+
+Metodologias: Scrum, versionamento com Git
 
 
-## Contato
 
-- LinkedIn: www.linkedin.com/in/leduardopacheco
-- E-mail: luizeduardoalencarpacheco@gmail.com
+O que Estou Aprendendo
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo para discussões, sugestões ou oportunidades de colaboração. Obrigado por visitar meu perfil no GitHub! 😊
+Integração contínua e entrega contínua (CI/CD)
+
+Desenvolvimento mobile com React Native
+
+Melhorias no design e performance de aplicações com foco em UX/UI
+
+Contato
+
+LinkedIn: www.linkedin.com/in/leduardopacheco
+
+E-mail: luizeduardoalencarpacheco@gmail.com
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato para discussões, sugestões ou oportunidades de colaboração. Estou sempre aberto a novos desafios e colaborações! 😊
+
