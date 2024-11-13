@@ -1,4 +1,4 @@
-# Desenvolvedor Full Stack | Luiz Eduardo Pacheco
+# Desenvolvedor Full Stack
 
 Bem-vindo ao meu repositório no GitHub! Sou Luiz Eduardo, desenvolvedor full stack apaixonado por tecnologia e inovação. Meu foco está em criar soluções eficientes e experiências impactantes para aplicações web e mobile.
 
