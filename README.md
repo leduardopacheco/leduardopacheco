@@ -14,11 +14,11 @@ Sou um profissional dedicado e detalhista, sempre em busca de novas formas de ap
 
 ## Tecnologias que Domino
 
-- **Linguagens de Programação:** JavaScript (ES6+), PHP, SQL, Python, HTML, CSS
-- **Frameworks e Bibliotecas:** React.js, Node.js
+- **Linguagens de Programação:** JavaScript (ES6+), PHP, SQL, Python, HTML, CSS, TypeScript
+- **Frameworks e Bibliotecas:** React.js, Node.js, Nest.js, Next.js
 - **Banco de Dados:** MySQL, MongoDB, SQLite, Firebase
 - **Ferramentas:** Git, GitHub, Styled Components, LaTeX
-- **Metodologias:** Scrum, versionamento com Git
+- **Metodologias:** Scrum, versionamento com Git, Git Flow
 
 
 
